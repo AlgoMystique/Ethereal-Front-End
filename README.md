@@ -2,4 +2,4 @@
 Ethereal Apparel - A Full-stack E-commerce Website
 
 
-![Deployed Application Screenshot](public/screenhot.png)
+![Deployed Application Screenshot](Front-end/src/assets/screenhot1.png)
