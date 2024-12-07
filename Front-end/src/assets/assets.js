@@ -108,7 +108,7 @@ export const products = [
     {
         _id: "aaaab",
         name: "Men Round Neck Pure Cotton T-shirt",
-        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        description: "A lightweight shirt, close-fitting and with a button up V neckline and long sleeves, worn as an undershirt or outer garment.",
         price: 200,
         image: [p_img2_1],
         category: "Men",
@@ -120,7 +120,7 @@ export const products = [
     {
         _id: "aaaac",
         name: "Girls Round Neck Cotton Top",
-        description: "A lightweight shirt, close-fitting and with a button up V neckline and long sleeves, worn as an outer garment.",
+        description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment",
         price: 220,
         image: [p_img3],
         category: "Kids",
